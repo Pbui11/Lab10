@@ -1,0 +1,4 @@
+Function #4 crosses the y-axis when x = 0 at the point (0,-9).
+As the function #4 goes to zero, function #3 will be undefined. 
+
+Function #5 experiences a very interesting discontinuity. It oscillates infinitely many times as x approach 0. So at the value of x = 0, the limit does not exist.
